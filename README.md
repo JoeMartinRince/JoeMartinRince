@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b3a,100:0d1117&height=200&section=header&text=Joe%20Martin%20Rince&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Dev%20|%20Data%20Science%20%26%20ML%20Enthusiast%20|%20CSE%20Student&descAlignY=60&descSize=15&descColor=a8d8ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Joe%20Martin%20Rince&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Dev%20%7C%20Data%20Science%20%26%20ML%20Enthusiast%20%7C%20CSE%20Student&descAlignY=60&descSize=15&descColor=a8d8ff" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                       -->
@@ -95,11 +95,11 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/JoeMartinRince">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoeMartinRince&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoeMartinRince&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&cache_seconds=1800" height="170"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/JoeMartinRince">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoeMartinRince&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeMartinRince&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=1800" height="170"/>
 </a>
 
 </div>
