@@ -40,15 +40,15 @@
 class JoeMartinRince:
     def __init__(self):
         self.name        = "Joe Martin Rince"
-        self.role        = ["Full Stack Developer 🌐", "Data Science & ML Engineer 🤖"]
-        self.education   = "B.Tech CSE Student 🎓"
+        self.role        = ["Full Stack Developer", "Data Science & ML Engineer"]
+        self.education   = "B.Tech CSE Student"
         self.interests   = ["Web Dev", "Machine Learning", "Data Analysis", "UI/UX"]
-        self.currently   = "Exploring Deep Learning & Modern Web Dev 🌱"
+        self.currently   = "Exploring Deep Learning & Modern Web Dev"
         self.open_to     = ["Collaborations", "Internships", "Open Source"]
-        self.motto       = "I learn by building — one commit at a time 🚀"
+        self.fun_fact    = "I learn by building -- one commit at a time"
     
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together ✨")
+        print("Thanks for visiting my profile! Let's build something amazing together.")
 
 me = JoeMartinRince()
 me.say_hi()
@@ -116,7 +116,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JoeMartinRince&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JoeMartinRince&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=-C,-B" width="100%"/>
 
 </div>
 
@@ -145,20 +145,15 @@ me.say_hi()
 <!--                   SNAKE ANIMATION                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🐍 Watch My Contribution Snake
+## 🐍 My Contribution Snake
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/JoeMartinRince/JoeMartinRince/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/JoeMartinRince/JoeMartinRince/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation"
-      src="https://raw.githubusercontent.com/JoeMartinRince/JoeMartinRince/output/github-snake.svg" />
-  </picture>
+<img src="https://raw.githubusercontent.com/JoeMartinRince/JoeMartinRince/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
+
+<!-- NOTE: If the snake image above is broken, go to Actions tab → Run "Generate Snake Animation" workflow manually -->
 
 ---
 
