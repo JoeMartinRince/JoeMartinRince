@@ -4,13 +4,15 @@
 <!--                    ANIMATED HEADER BANNER                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Joe%20Martin%20Rince&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Dev%20%7C%20Data%20Science%20%26%20ML%20Enthusiast%20%7C%20CSE%20Student&descAlignY=60&descSize=15&descColor=a8d8ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=Joe%20Martin%20Rince&fontSize=48&fontColor=ffffff&fontAlignY=40" width="100%"/>
+
+<h3>🌐 Full Stack Dev | 🤖 Data Science & ML Enthusiast | 🎓 CSE Student</h3>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=👋+Hey+there!+I'm+Joe+Martin+Rince;💻+Aspiring+Full+Stack+Developer;🤖+Data+Science+%26+ML+Engineer;🎓+CSE+Student+%7C+Lifelong+Learner;🚀+Building+things+that+matter!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Joe+Martin+Rince;Aspiring+Full+Stack+Developer;Data+Science+and+ML+Engineer;CSE+Student+%7C+Lifelong+Learner;Building+things+that+matter!)](https://git.io/typing-svg)
 
 <br/>
 
