@@ -95,11 +95,11 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/JoeMartinRince">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoeMartinRince&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoeMartinRince&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="170"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/JoeMartinRince">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeMartinRince&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoeMartinRince&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="170"/>
 </a>
 
 </div>
@@ -122,7 +122,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JoeMartinRince&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=-C,-B" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=JoeMartinRince&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
 
 </div>
 
